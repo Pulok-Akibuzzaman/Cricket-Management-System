@@ -8,7 +8,7 @@ Cricket Team Management System(EWU SPRING2023 CSE110 Group project)
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mh-ratul-5201792a9/)
 
 - **Fayaza Islam**
-  - GitHub: [GitHub Profile]()
+  - GitHub: [GitHub Profile](https://github.com/Fayaza6)
   - LinkedIn: [LinkedIn Profile]()
 
 - **Pulok Akibuzzaman**
