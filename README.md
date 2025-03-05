@@ -4,7 +4,7 @@ Cricket  Management System(EWU SPRING2023 CSE110 Group project)
 ## Team Members
 
 - **Muin Hossain**
-  - GitHub: [GitHub Profile]()
+  - GitHub: [GitHub Profile](https://github.com/MuinRatul)
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mh-ratul-5201792a9/)
 
   - **Fayaza Islam**
