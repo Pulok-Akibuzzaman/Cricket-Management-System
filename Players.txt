@@ -1,0 +1,16 @@
+John Cena,50,1974-03-22,90.0,80.0
+Shakib Al Hasan,36,1987-03-24,37.9,29.4
+Tamim Iqbal,35,1989-03-20,36.6,48.2
+Mushfiqur Rahim,37,1987-05-09,36.4,60.2
+Mahmudullah Riyad,37,1986-02-04,34.6,40.3
+Liton Das,29,1995-10-13,32.3,0.0
+Mustafizur Rahman,28,1995-09-06,12.7,23.9
+Mehidy Hasan Miraz,26,1997-10-25,20.1,31.6
+Taskin Ahmed,28,1995-04-03,8.7,30.8
+Soumya Sarkar,30,1993-02-25,30.7,42.5
+Afif Hossain,24,1999-09-22,26.3,0.0
+Shoriful Islam,23,2000-06-03,10.1,34.2
+Mohammad Saifuddin,27,1996-10-01,17.2,30.4
+Mohammad Naim,24,1999-08-22,28.4,0.0
+Nurul Hasan,30,1993-11-21,24.3,0.0
+Ebadot Hossain,30,1993-01-07,7.1,30.5

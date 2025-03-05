@@ -1,0 +1,4 @@
+2024-06-15, Stadium A, Team1 vs Team2
+2024-06-16, Stadium B, Team3 vs Team4
+2024-06-17, Stadium C, Team1 vs Team3
+2024-06-18, Stadium D, Team2 vs Team4
