@@ -1,5 +1,5 @@
-# Cricket  Management System
-Cricket  Management System(EWU SPRING2023 CSE110 Group project)
+# Cricket Team Management System
+Cricket Team Management System(EWU SPRING2023 CSE110 Group project)
 
 ## Team Members
 
